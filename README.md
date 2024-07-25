@@ -1,1 +1,1 @@
-# CSS-based-full-website-Nischinto-
+This is full website based on css, html and js.
