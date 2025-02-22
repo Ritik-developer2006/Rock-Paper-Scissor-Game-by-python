@@ -1,1 +1,1 @@
-This is full website based on css, html and js.
+This is the rock paper scissor game written in python code.
